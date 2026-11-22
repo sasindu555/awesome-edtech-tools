@@ -84,6 +84,8 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Pinterest](http://www.pinterest.com/)
 * [Scoop.it](http://www.scoop.it/)
 * [TED Education](http://ed.ted.com) **(Editor's Choice)**
+* [Word Grid Game](https://www.wordgridgame.net) - Free browser-based generators for word search, crossword, and word scramble worksheets. Printable, no login required.
+
 
 ### Digital Portfolios
 * [Chalk and Wire](http://www.chalkandwire.com)
